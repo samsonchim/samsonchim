@@ -41,8 +41,8 @@ I envision a future where Africa stands at the forefront of the global tech land
 
 ## 📬 Let's Connect
 
-- LinkedIn: [Samson Chimaraoke]([Link to LinkedIn](https://www.linkedin.com/in/samson-chimaraoke-622227297/))
-- Twitter: [@am_samsonchi]([Link to Twitter](https://twitter.com/am_samsonchi))
-- Personal Website: [My Portifolio]([Link to Website](https://samsonchim.github.io/chi/))
+- LinkedIn: [Samson Chimaraoke](https://www.linkedin.com/in/samson-chimaraoke-622227297/))
+- Twitter: [@am_samsonchi](https://twitter.com/am_samsonchi))
+- Personal Website: [My Portifolio](https://samsonchim.github.io/chi/))
 
 Feel free to explore my repositories and let's connect for meaningful collaborations!
