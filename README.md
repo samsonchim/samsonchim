@@ -10,73 +10,11 @@ I am a Full Stack Developer based in Nigeria, currently working for a Norwegian 
 - 💬 Ask me about Full Stack Web/Mobile App Development 
 - 📫 How to reach me: _samsonchimaraoke@proton.me_
 
-## 💻 Tech Stack
-
-- **Programming Languages:** JavaScript, PHP, C, Python.
-- **Web Technologies:**
-  - Frontend:
-    - React
-    - Vue.js
-    - HTML5
-    - CSS3
-    - Sass/SCSS
-    - Bootstrap
-  - Backend:
-    - Node.js
-    - Express.js
-    - Flask
-    - Django
-  - APIs:
-    - RESTful APIs
-    - GraphQL
-  - Package Managers:
-    - npm
-    - yarn
-  - Build Tools:
-    - Webpack
-    - Babel
-  - Version Control:
-    - Git
-    - GitHub
-  - Testing:
-    - Jest
-    - PHPUnit
-  - Continuous Integration/Continuous Deployment (CI/CD):
-    - Travis CI
-    - GitHub Actions
-  - Web Servers:
-    - Apache
-    - Nginx
-  - Containerization:
-    - Docker
-  - Cloud Services:
-    - AWS (Amazon Web Services)
-    - Firebase
-    - Heroku
-  - Web Security:
-    - HTTPS
-    - OAuth
-    - JWT (JSON Web Tokens)
-  - Frontend Libraries:
-    - Redux
-    - Vuex
-  - Frontend Routing:
-    - React Router
-    - Vue Router
-- **Frameworks:**
-  - Laravel
-  - Django
-- **Tools:**
-  - Visual Studio Code
-  - Postman
-
-
 ## 🎨 Interests
 
 - **Coding:** Full Stack Development 😉
 - **Animation:** 3D Animation 🙂
 - **VFX:**  Compositing 😏
-
 
 
 ## 🌍 Making a Change
@@ -96,8 +34,8 @@ I envision a future where Africa stands at the forefront of the global tech land
 ## 📽️ Latest Projects
 
 - [Footy Mines](https://footymines.com)
-- [Sellbizzhub](Link to Project 2)
-- [Gigi](Link to Project 3)
+- [Spurz](https://spurz.com.ng/outlets)
+- [Gigi](http://gigi.name.ng)
 
 
 ## 📬 Let's Connect
