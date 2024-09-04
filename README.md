@@ -34,7 +34,8 @@ I envision a future where Africa stands at the forefront of the global tech land
 ## 📽️ Latest Projects
 
 - [Footy Mines](https://footymines.com)
-- [Spurz](https://spurz.com.ng/outlets)
+- [Spurz for Sellers](https://outlets.spurz.com.ng)
+- [Spurz (E-commerce)](https://spurz.com.ng)
 - [Gigi](http://gigi.name.ng)
 
 
