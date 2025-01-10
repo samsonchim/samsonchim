@@ -16,20 +16,10 @@ I am a Full Stack Developer based in Nigeria, currently working for a Norwegian 
 - **Animation:** 3D Animation 🙂
 - **VFX:**  Compositing 😏
 
-
-## 🌍 Making a Change
-
-I am deeply committed to playing a pivotal role in helping the growth of Africa's tech industry. By leveraging my skills as a Full Stack Developer, I aspire to contribute to the technological advancement and innovation that will drive positive change across the continent.
-
-My overarching goal is to bridge the technological gap and empower individuals and businesses in Africa through the strategic implementation of cutting-edge solutions. I believe in the transformative power of technology to address challenges, enhance accessibility, and unlock new opportunities for sustainable development.
-
-Through my work, I aim to actively participate in projects that promote digital inclusion, provide educational resources, and catalyze the emergence of a vibrant tech ecosystem in Africa. By embracing a holistic approach to technology, from Full Stack development to exploring emerging fields like AI and machine learning, I strive to be a catalyst for innovation that transcends borders.
-
-I envision a future where Africa stands at the forefront of the global tech landscape, and my commitment is unwavering in contributing to the realization of this vision. Together, let's shape a future where technology becomes an enabler for positive change and prosperity across the African continent.
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samsonchim&layout=compact)
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=samsonchim&show_icons=true&hide=issues&count_private=true&theme=dark)](https://github.com/samsonchim)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samsonchim&show_icons=true&hide=issues&count_private=true&theme=dark)](https://github.com/samsonchim)
 
 ## 📽️ Latest Projects
 
