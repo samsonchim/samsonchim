@@ -25,6 +25,3 @@ My work spans from **trading bots** and **financial algorithms** to **web/mobile
 
 ✨ Quote I Live By
 “I don’t play the odds, I play the man.”
-
-## 📬 Let's Connect - LinkedIn: [Samson Chimaraoke](https://www.linkedin.com/in/samson-chimaraoke-622227297/)) - Twitter: [@am_samsonchi](https://twitter.com/am_samsonchi)) - Personal Website: [My Portifolio](https://samsonchim.github.io/chi/))
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samsonchim&layout=compact) ## 📈 GitHub Stats [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samsonchim&show_icons=true&hide=issues&count_private=true&theme=dark)](https://github.com/samsonchim)
