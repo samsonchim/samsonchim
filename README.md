@@ -1,38 +1,38 @@
-# Hello, I'm Samson Chimaraoke
+# 👋 Hi, I’m **Samson Chi**
 
-I am a Full Stack Developer based in Nigeria, currently working for a Norwegian Company. Passionate about coding, animation, VFX, and movie making, I am on a mission to make a significant impact on Africa's tech industry.
+💻 **Software Engineer | Problem Solver | Builder**  
+I specialize in creating efficient solutions with **Python, JavaScript, Rust, and Go**.  
+My work spans from **trading bots** and **financial algorithms** to **web/mobile apps**, **system design**, and **blockchain integrations**.  
+
+---
 
 ## 🚀 About Me
+- ⚡ I build **automated trading bots** using indicators like MACD, RSI, and Moving Averages.  
+- 🌐 I develop **web apps** with **React, Next.js, and TailwindCSS**.  
+- 📱 I create **React Native apps** with real-time notifications and interactive UIs.  
+- 🔗 I experiment with **blockchain**, APIs, and even custom programming languages in **Rust**.  
+- 🎯 I love turning **ideas into real, working products**.  
 
-- 🔭 I'm currently working on a lot of things 😎
-- 🌱 I'm continuously learning and exploring new technologies
-- 👯 I'm looking to collaborate on any project that involves **African Tech Advancement**
-- 💬 Ask me about Full Stack Web/Mobile App Development 
-- 📫 How to reach me: _samsonchimaraoke@proton.me_
+---
 
-## 🎨 Interests
-
-- **Coding:** Full Stack Development 😉
-- **Animation:** 3D Animation 🙂
-- **VFX:**  Compositing 😏
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samsonchim&layout=compact)
-## 📈 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samsonchim&show_icons=true&hide=issues&count_private=true&theme=dark)](https://github.com/samsonchim)
-
-## 📽️ Latest Projects
-
-- [Footy Mines](https://footymines.com)
-- [Spurz for Sellers](https://outlets.spurz.com.ng)
-- [Spurz (E-commerce)](https://spurz.com.ng)
-- [Gigi](http://gigi.name.ng)
+## 🛠️ Tech Stack
+```bash
+💡 Languages: Python | JavaScript | Rust | Go
+🖼️ Frontend: React | Next.js | TailwindCSS
+📱 Mobile: React Native | Expo
+⚙️ Backend: Node.js | Supabase | REST APIs
+📊 Others: Trading Algorithms | Blockchain (Cosmos SDK) | Automation
+📈 GitHub Stats
+<div align="center">
 
 
-## 📬 Let's Connect
 
-- LinkedIn: [Samson Chimaraoke](https://www.linkedin.com/in/samson-chimaraoke-622227297/))
-- Twitter: [@am_samsonchi](https://twitter.com/am_samsonchi))
-- Personal Website: [My Portifolio](https://samsonchim.github.io/chi/))
+</div>
+🌌 3D Contribution Graph
+<div align="center">
 
-Feel free to explore my repositories and let's connect for meaningful collaborations!
+
+</div>
+✨ Quote I Live By
+“I don’t play the odds, I play the man.”
+
