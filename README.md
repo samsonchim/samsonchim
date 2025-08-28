@@ -23,16 +23,9 @@ My work spans from **trading bots** and **financial algorithms** to **web/mobile
 ⚙️ Backend: Node.js | Supabase | REST APIs
 📊 Others: Trading Algorithms | Blockchain (Cosmos SDK) | Automation
 📈 GitHub Stats
-<div align="center">
 
-
-
-</div>
 🌌 3D Contribution Graph
-<div align="center">
 
-
-</div>
 ✨ Quote I Live By
 “I don’t play the odds, I play the man.”
 
