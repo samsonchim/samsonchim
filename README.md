@@ -39,10 +39,6 @@ Currently shipping across commerce (**Spurz**), fintech (**Muqbala**), gaming (*
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samsonchim&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samsonchim&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies"/>
-</p>
-
 ---
 
 <p align="center"><i>Let's build something fast. → <a href="https://samsonchi.xyz">samsonchi.xyz</a></i></p>
